@@ -1,0 +1,28 @@
+name: lomanacori
+favicon: null
+layout_spectrum: 0.11681291344575584
+typography_spectrum: 0.6566592794843018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.938243807759136
+  lightness: 0.5041227485053241
+  saturation: 0.04403812810778618
+  rhythmicContrast: 0.8262145461048931
+purpose: []
